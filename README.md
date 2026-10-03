@@ -1,3 +1,4 @@
 # Hotel-Chain-Relational-Database
 
-Relational Database and MySQL code in MySQL workbench.
+Lead a team of 5 to design a relational database in MySQL workbench that stores, manages hotel chain operations
+efficiently.
